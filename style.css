@@ -1,0 +1,134 @@
+table,td{
+    border: 1px solid black;
+    }
+td{
+    empty-cells: hide;
+    
+    }
+
+
+
+h1{
+    background-color: yellow;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    
+}
+.container{
+    margin: auto;
+    padding: 30px;
+    width: auto;
+    
+}
+
+
+
+
+
+.orange{
+    background-color: orange;
+    color: green;
+    text-align: center;
+}
+
+table{
+    width: 430px;
+}
+.lightpink{
+    background-color: lightpink;
+    text-align: center;
+    color: black;
+    }
+.lightblue{
+    text-align: center;
+    background-color: lightblue;
+}
+.brown{
+    background-color: rgb(181, 148, 103);
+    text-align: center;
+}
+.lightorange{
+    background-color: orange;
+    text-align: center;
+    
+}
+.again-orange{
+    background-color: orange;
+    color: green;
+    text-align: center;
+}
+.again-again-orange{
+    background-color: orange;
+    color: green;
+    text-align: center;
+    }
+
+.light-yellow{
+    background-color: rgb(232, 232, 170);
+    color: green;
+    text-align: center;
+}  
+.grey-type{
+    background-color: rgb(239, 239, 239);
+    color: green;
+    text-align: center;
+} 
+.light-green{
+    background-color: lightgreen;
+    text-align: center;
+    color: black;
+} 
+.again-orange-black{
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+
+.yellow-dark{
+    background-color: yellow;
+    text-align: center;
+}
+.light-green-blue{
+    background-color: lightgreen;
+    color: blue;
+    text-align: center;
+    }
+.blue-green{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}   
+.yellow-dark-red{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+} 
+.light-yellow-black{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+.lightpink-blue{
+    background-color:lightpink ;
+    color: blue;
+    text-align: center;
+
+}
+
+.off-white{
+    background-color: rgb(255, 248, 248);
+    color: black;
+    text-align: center;
+}
+.white{
+    background-color: whitesmoke;
+    color: red;
+    text-align: center;
+}
+
+
+
+
+
+
